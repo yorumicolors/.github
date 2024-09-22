@@ -4,6 +4,7 @@
 </h1>
 
 ![image](https://github.com/user-attachments/assets/e11ce5aa-2747-4724-b4c8-3695c52c6075)
+> artwork from [Song of the Sea](https://www.imdb.com/title/tt1865505/)
 
 **Yorumi** – a calming deep sea colorscheme for developers. 
 Inspired by the tranquil night sea, Yorumi bathes your editor in a soothing blend of blues and greens, 
@@ -24,6 +25,8 @@ I wanted to elevate the experience further. Yorumi offers a darker and cozier ae
 <a href="https://github.com/yorumicolors/yorumi/tree/main/lib/tailwindcss/">
 <img src="https://img.shields.io/badge/tailwindcss-0D2C4E?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 </p>
+
+Can't find your favorite application? [Request a port](https://github.com/yorumicolors/yorumi/issues/new?assignees=&labels=port&projects=&template=port-request.md&title=%5BPORT%5D+%3CAPP-NAME%3E).
 
 ## What You'll Find Here
 
@@ -123,3 +126,12 @@ Capturing the mesmerizing glow of bioluminescent sea life.
 | ![KairoMagenta](../res/colors/kairo/kairoMagenta.png) | `kairoMagenta` | `#DA72A2` | Suitable for function annotations and special variables, adding a touch of sophistication. |
 | ![KairoViolet](../res/colors/kairo/kairoViolet.png) | `kairoViolet` | `#958EBE` | Perfect for complex data structures and decorators, enhancing the visual hierarchy. |
 | ![KairoCyan](../res/colors/kairo/kairoCyan.png) | `kairoCyan` | `#85C7B8` | Use for interface elements and type hints, providing a crisp and clear contrast for better focus. |
+
+## Contributing
+
+We’re thrilled you want to contribute to **Yorumi**! While our team maintains the core theme, we rely on the community to expand Yorumi to more applications.
+
+### How You Can Help
+
+- **Submit Ports:** If Yorumi isn’t available for an application you use, feel free to create a port and submit a pull request [here](https://github.com/yorumicolors/yorumi)
+- **Join the Organization:** After we transition the repository to our organization, active contributors will be granted maintainership to manage their respective ports.
