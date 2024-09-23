@@ -41,7 +41,7 @@ Yorumi transforms your coding sessions into a peaceful and focused journey. Dive
 
 ## Palette
 
-![image](https://github.com/user-attachments/assets/5243b53c-5751-4726-8cda-d57d0b854ea0)
+![image](../res/colors/palette.png)
 
 **Yorumi** features a deep sea palette, thoughtfully divided into six thematic color groups. Each group embodies different elements of the ocean to create a serene and focused coding environment. Utilize these colors to enhance various aspects of your editor, from syntax highlighting to UI components, ensuring a cohesive and visually appealing workspace.
 
