@@ -1,5 +1,5 @@
 <h1 valign="middle" >
-  <img height="40px" src="https://github.com/yorumicolors/yorumi/blob/main/res/ezgif.com-crop.gif?raw=true">
+  <img height="40px" src="../res/seal_sots.gif?raw=true">
   <sup>yorumi.nvim - deep code, quiet sea</sup> 
 </h1>
 
