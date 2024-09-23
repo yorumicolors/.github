@@ -63,8 +63,8 @@ Capturing the ethereal glow of moonlight shimmering on water.
 
 | Color | Reference | Hex Code | Description |
 |-------|-----------|----------|-------------|
-| ![Tsuki0](../res/colors/tsuki/tsuki0.png) | `tsuki0` | `#797B87` | Perfect for comments and less prominent text, blending seamlessly with the background. |
-| ![Tsuki1](../res/colors/tsuki/tsuki1.png) | `tsuki1` | `#90929E` | Use for keywords and operators to make them stand out without harsh contrasts. |
+| ![Tsuki0](../res/colors/tsuki/tsuki0.png) | `tsuki0` | `#656771` | Perfect for comments and less prominent text, blending seamlessly with the background. |
+| ![Tsuki1](../res/colors/tsuki/tsuki1.png) | `tsuki1` | `#878996` | Use for keywords and operators to make them stand out without harsh contrasts. |
 | ![Tsuki2](../res/colors/tsuki/tsuki2.png) | `tsuki2` | `#A7A9B5` | Ideal for function names and variables, providing clarity and focus. |
 | ![Tsuki3](../res/colors/tsuki/tsuki3.png) | `tsuki3` | `#BDBFCB` | Great for standard text and identifiers, ensuring high readability. |
 | ![Tsuki4](../res/colors/tsuki/tsuki4.png) | `tsuki4` | `#C6DFEC` | Excellent for hover highlights and selection backgrounds, enhancing interactivity. |
