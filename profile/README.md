@@ -19,14 +19,22 @@ I wanted to elevate the experience further. Yorumi offers a darker and cozier ae
 
 ## Applications and Extras
 <p>
-<a href="https://github.com/yorumicolors/yorumi.nvim"><img src="https://img.shields.io/badge/NeoVim-667C4B?&style=for-the-badge&logo=neovim&logoColor=white"></a>
-<a href="https://github.com/yorumicolors/yorumi/tree/main/apps/iterm2/">
-<img src="https://img.shields.io/badge/iterm2-060914?style=for-the-badge&logo=iterm2"></a>
-<a href="https://github.com/yorumicolors/yorumi/tree/main/lib/tailwindcss/">
-<img src="https://img.shields.io/badge/tailwindcss-0D2C4E?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
+  <a href="https://github.com/yorumicolors/yorumi.nvim">
+    <img src="https://img.shields.io/badge/NeoVim-667C4B?&style=for-the-badge&logo=neovim&logoColor=white"></a>
+  
+  <a href="https://github.com/yorumicolors/yorumi/tree/main/get/libs/tailwindcss/">
+    <img src="https://img.shields.io/badge/tailwindcss-0D2C4E?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
+  
+  <a href="https://github.com/yorumicolors/yorumi/tree/main/apps/terms/iterm2/">
+    <img src="https://img.shields.io/badge/iterm2-060914?style=for-the-badge&logo=iterm2"></a>
+
+
+  <a href="https://github.com/yorumicolors/yorumi/tree/main/get/apps/terms/alacritty/">
+    <img src="https://img.shields.io/badge/alacritty-0E0D17?style=for-the-badge&logo=alacritty&logoColor=BDBFCB"></a>
 </p>
 
-Can't find your favorite application? [Request a port](https://github.com/yorumicolors/yorumi/issues/new?assignees=&labels=port&projects=&template=port-request.md&title=%5BPORT%5D+%3CAPP-NAME%3E).
+Can't find your favorite application? 
+[Request a port](https://github.com/yorumicolors/yorumi/issues/new?assignees=&labels=port&projects=&template=port-request.md&title=%5BPORT%5D+%3CAPP-NAME%3E).
 
 ## What You'll Find Here
 
