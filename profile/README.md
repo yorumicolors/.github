@@ -31,6 +31,9 @@ I wanted to elevate the experience further. Yorumi offers a darker and cozier ae
 
   <a href="https://github.com/yorumicolors/yorumi/tree/main/get/apps/terms/alacritty/">
     <img src="https://img.shields.io/badge/alacritty-0E0D17?style=for-the-badge&logo=alacritty&logoColor=BDBFCB"></a>
+
+  <a href="https://github.com/yorumicolors/ghostty">  
+    <img src="https://img.shields.io/badge/ghostty-060914?style=for-the-badge&logo=ghostery&logoColor=BDBFCB"></a>
 </p>
 
 Can't find your favorite application? 
