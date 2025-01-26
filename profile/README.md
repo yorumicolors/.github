@@ -18,6 +18,9 @@ I wanted to elevate the experience further. Yorumi offers a darker and cozier ae
 
 
 ## Applications and Extras
+
+Ready to reduce eye strain? [Download Yorumi](https://github.com/yorumicolors/yorumi#extras) for your favorite developer tools and applications. Welcome to your cozier digital workspace! ❤️
+
 <p>
   <a href="https://github.com/yorumicolors/yorumi.nvim">
     <img src="https://img.shields.io/badge/NeoVim-667C4B?&style=for-the-badge&logo=neovim&logoColor=white"></a>
@@ -42,14 +45,8 @@ I wanted to elevate the experience further. Yorumi offers a darker and cozier ae
 Can't find your favorite application? 
 [Request a port](https://github.com/yorumicolors/yorumi/issues/new?assignees=&labels=port&projects=&template=port-request.md&title=%5BPORT%5D+%3CAPP-NAME%3E).
 
-## What You'll Find Here
 
-- **Palette Deep Dive:** Explore detailed breakdowns of each color group, complete with color codes and their roles within the scheme.
-- **See It in Action:** Discover charts, color swatches, and code snippets showcasing Yorumi's elegant design.
-- **Download the Goodness:** Ready to reduce eye strain? [Download Yorumi](https://github.com/yorumicolors/yorumi#extras) for your favorite developer tools and applications. Welcome to your cozier digital workspace! ❤️
-
-- **Yorumi Website:** [https://yorumicolors.cc](https://yorumicolors.cc) – Dive deeper into Yorumi's features and inspirations.
-- **Contributing:** Love Yorumi or want to contribute? [Check out the CONTRIBUTING.md](https://github.com/yorumicolors/yorumi#extras) for ways to get involved.
+Love Yorumi or want to contribute? [Find out how to get involved.](https://github.com/yorumicolors#contributing)
 
 Yorumi transforms your coding sessions into a peaceful and focused journey. Dive in, explore the palette, and see how it complements your coding style!
 
@@ -57,89 +54,116 @@ Yorumi transforms your coding sessions into a peaceful and focused journey. Dive
 
 ![image](../res/colors/palette.png)
 
-**Yorumi** features a deep sea palette, thoughtfully divided into six thematic color groups. Each group embodies different elements of the ocean to create a serene and focused coding environment. Utilize these colors to enhance various aspects of your editor, from syntax highlighting to UI components, ensuring a cohesive and visually appealing workspace.
+**Yorumi** features a deep sea palette, thoughtfully divided into six thematic color groups. Each group embodies a different element of the ocean to create a serene and focused coding environment. Utilize these colors to enhance various aspects of your editor, from syntax highlighting to UI components, ensuring a cohesive and visually appealing workspace.
 
-
-### Yoru (夜) - Night
-
-Embracing the tranquil darkness of the night sea.
-
-| Color | Reference | Hex Code | Description |
-|-------|-----------|----------|-------------|
-| ![Yoru0](../res/colors/yoru/yoru0.png) | `yoru0` | `#060914` | Ideal for the background of your editor, providing a deep, calming base. |
-| ![Yoru1](../res/colors/yoru/yoru1.png) | `yoru1` | `#0C0F1A` | Perfect for inactive UI elements like status lines and inactive buffers. |
-| ![Yoru2](../res/colors/yoru/yoru2.png) | `yoru2` | `#121520` | Use for cursor lines and background highlights to subtly differentiate active areas. |
-| ![Yoru3](../res/colors/yoru/yoru3.png) | `yoru3` | `#1D202B` | Suitable for fold columns and other auxiliary UI components to maintain a cohesive look. |
-
-### Tsuki (月) - Moon
-
-Capturing the ethereal glow of moonlight shimmering on water.
+<details>
+  <summary>
+    <h3>Yoru (夜) - Night</h3> <br> The base color group for the theme, representing dark backgrounds and neutral tones. Used for UI elements like windows, panels, and text areas to create a calm, low-contrast foundation.
+  </summary>
 
 | Color | Reference | Hex Code | Description |
 |-------|-----------|----------|-------------|
-| ![Tsuki0](../res/colors/tsuki/tsuki0.png) | `tsuki0` | `#656771` | Perfect for comments and less prominent text, blending seamlessly with the background. |
-| ![Tsuki1](../res/colors/tsuki/tsuki1.png) | `tsuki1` | `#878996` | Use for keywords and operators to make them stand out without harsh contrasts. |
-| ![Tsuki2](../res/colors/tsuki/tsuki2.png) | `tsuki2` | `#A7A9B5` | Ideal for function names and variables, providing clarity and focus. |
-| ![Tsuki3](../res/colors/tsuki/tsuki3.png) | `tsuki3` | `#BDBFCB` | Great for standard text and identifiers, ensuring high readability. |
-| ![Tsuki4](../res/colors/tsuki/tsuki4.png) | `tsuki4` | `#C6DFEC` | Excellent for hover highlights and selection backgrounds, enhancing interactivity. |
+| ![Yoru0](../res/colors/yoru/yoru0.png) | `yoru0` | `#060914` | Main editor background. Dark, low-contrast base for the workspace. |
+| ![Yoru1](../res/colors/yoru/yoru1.png) | `yoru1` | `#0C0F1A` | Background for inactive UI elements (e.g., status lines, inactive buffers). Slightly lighter than yoru0 for subtle differentiation. |
+| ![Yoru2](../res/colors/yoru/yoru2.png) | `yoru2` | `#121520` | Background for cursor lines and highlights. Slightly lighter than yoru1 to distinguish active areas without overwhelming contrast. |
+| ![Yoru3](../res/colors/yoru/yoru3.png) | `yoru3` | `#1D202B` | Background for fold columns and auxiliary UI elements. Maintains cohesion with the theme while providing subtle contrast. |
+| ![Yoru4](../res/colors/yoru/yoru4.png) | `yoru4` | `#343742` | Used for conceal elements, visual separators, and non-critical text. Keeps the interface clean and unobtrusive. |
+| ![YorudakuViolet](../res/colors/yoru/yorudakuViolet.png) | `yorudakuViolet` | `#0E0D17` | Primary background for dialog boxes and subwindows in the alternate flavor. Also used as a main background in the secondary theme variant. |
+| ![YorudakuViolet](../res/colors/yoru/yorudakuGreen.png) | `yorudakuGreen` | `#141712` | Background for positive indication buttons (non-hover state). Provides a subtle, affirmative visual cue. |
+| ![YorudakuViolet](../res/colors/yoru/yorudakuBlue.png) | `yorudakuBlue` | `#0F1015` | Primary background for the alternate flavor. Also used for accented button backgrounds. Slightly muted for a softer look. |
+  
+</details>
 
-### Kuroi (黒) - Black
-
-Reflecting the mysterious depths and shadowy hues beneath the surface.
-
-| Color | Reference | Hex Code | Description |
-|-------|-----------|----------|-------------|
-| ![KuroiRed](../res/colors/kuroi/kuroiRed.png) | `kuroiRed` | `#4E0E0E` | Use for error backgrounds and critical alerts to grab attention effectively. |
-| ![KuroiGreen](../res/colors/kuroi/kuroiGreen.png) | `kuroiGreen` | `#1C4642` | Perfect for success backgrounds and Git diffs (additions) to signify positive actions. |
-| ![KuroiBlue](../res/colors/kuroi/kuroiBlue.png) | `kuroiBlue` | `#0D2C4E` | Ideal for informational backgrounds and Git diffs (changes) to denote modifications. |
-| ![KuroiYellow](../res/colors/kuroi/kuroiYellow.png) | `kuroiYellow` | `#6B5905` | Use for warnings and Git diffs (text changes) to highlight important notices. |
-| ![KuroiViolet](../res/colors/kuroi/kuroiViolet.png) | `kuroiViolet` | `#0E0D17` | Suitable for inactive UI elements and less prominent text, maintaining a sleek interface. |
-| ![KuroiBlack](../res/colors/kuroi/kuroiBlack.png) | `kuroiBlack` | `#121210` | Serves as the another background color, offering a dark and immersive coding space. |
-| ![KuroiGray](../res/colors/kuroi/kuroiGray.png) | `kuroiGray` | `#343742` | Use for conceal elements, visual separators, and non-critical text to keep the interface clean. |
-
-### Umi (海) - Sea
-
-Echoing the vibrant life and dynamic colors of the ocean.
+<details>
+  <summary>
+    <h3>Tsuki (月) - Moon</h3> <br> Foreground and text color group. Represents the soft glow of moonlight, used for primary and secondary text to ensure readability against dark backgrounds.
+  </summary>
 
 | Color | Reference | Hex Code | Description |
 |-------|-----------|----------|-------------|
-| ![UmiRed](../res/colors/umi/umiRed.png) | `umiRed` | `#913B3B` | Ideal for highlights and active search matches to make them easily noticeable. |
-| ![UmiOrange](../res/colors/umi/umiOrange.png) | `umiOrange` | `#9C672B` | Perfect for UI elements like buttons and links, adding a touch of warmth. |
-| ![UmiGreen](../res/colors/umi/umiGreen.png) | `umiGreen` | `#667C4B` | Use for highlights in Git diffs (additions) and success notifications. |
-| ![UmiBlue](../res/colors/umi/umiBlue.png) | `umiBlue` | `#42778A` | Great for directory names and informational text, providing a calming effect. |
-| ![UmiYellow](../res/colors/umi/umiYellow.png) | `umiYellow` | `#9D672F` | Suitable for warnings and active lines, ensuring they stand out subtly. |
-| ![UmiMagenta](../res/colors/umi/umiMagenta.png) | `umiMagenta` | `#8D3F5A` | Use for string literals and special characters to add vibrancy without overwhelming. |
-| ![UmiCyan](../res/colors/umi/umiCyan.png) | `umiCyan` | `#49837E` | Perfect for variable names and annotations, enhancing clarity and focus. |
+| ![Tsuki0](../res/colors/tsuki/tsuki0.png) | `tsuki0` | `#656771` | Used for comments and less prominent text. Low-contrast to blend seamlessly with the background. |
+| ![Tsuki1](../res/colors/tsuki/tsuki1.png) | `tsuki1` | `#878996` | Foreground for keywords and operators. Subtle emphasis without harsh contrast. |
+| ![Tsuki2](../res/colors/tsuki/tsuki2.png) | `tsuki2` | `#A7A9B5` | Foreground for function names and variables. Ensures clarity and focus. |
+| ![Tsuki3](../res/colors/tsuki/tsuki3.png) | `tsuki3` | `#BDBFCB` | Primary text color for standard text and identifiers. Optimized for readability. |
+| ![TsukiViolet](../res/colors/tsuki/tsukiViolet.png) | `tsukiViolet` | `#C0BCE6` | Used for hover highlights and selection backgrounds. Enhances interactivity with a soft accent. |
+| ![TsukiGreen](../res/colors/tsuki/tsukiGreen.png) | `tsukiGreen` | `#D7E1B7` | Accent color for positive or affirmative elements. |
+| ![TsukiBlue](../res/colors/tsuki/tsukiBlue.png) | `tsukiBlue` | `#C6DFEC` | Accent color for interactive elements. Also a primary foreground in alternate flavors. Slightly muted for versatility. |
 
-### Sango (珊瑚) - Coral
+</details>
 
-Inspired by the lively hues and intricate beauty of coral reefs.
 
-| Color | Reference | Hex Code | Description |
-|-------|-----------|----------|-------------|
-| ![SangoRed](../res/colors/sango/sangoRed.png) | `sangoRed` | `#F05C60` | Ideal for errors and critical alerts to immediately draw attention. |
-| ![SangoOrange](../res/colors/sango/sangoOrange.png) | `sangoOrange` | `#D29146` | Use for warning messages and important notices to maintain visibility without harshness. |
-| ![SangoGreen](../res/colors/sango/sangoGreen.png) | `sangoGreen` | `#80AA6E` | Perfect for success messages and Git diffs (additions) to signify positive changes. |
-| ![SangoBlue](../res/colors/sango/sangoBlue.png) | `sangoBlue` | `#597BC0` | Great for function names and class definitions, adding a professional touch. |
-| ![SangoYellow](../res/colors/sango/sangoYellow.png) | `sangoYellow` | `#BA9A5E` | Use for highlight groups like `CurSearch` and `IncSearch` to ensure they are easily noticeable. |
-| ![SangoMagenta](../res/colors/sango/sangoMagenta.png) | `sangoMagenta` | `#B4647F` | Suitable for method names and decorators, adding depth to your code structure. |
-| ![SangoViolet](../res/colors/sango/sangoViolet.png) | `sangoViolet` | `#A188C3` | Use for keywords and operators to make them stand out subtly against the background. |
-| ![SangoCyan](../res/colors/sango/sangoCyan.png) | `sangoCyan` | `#7AA8A7` | Perfect for type annotations and interface definitions, enhancing readability. |
-
-### Kairo (海路) - Bioluminescent Sea
-
-Capturing the mesmerizing glow of bioluminescent sea life.
+<details>
+  <summary>
+    <h3>Kuroi (黒い) - Black</h3> <br> Dark accent color group (luminosity ~20). Used for shadows, borders, and low-contrast elements to add depth and structure without overwhelming the interface.
+  </summary>
 
 | Color | Reference | Hex Code | Description |
 |-------|-----------|----------|-------------|
-| ![KairoRed](../res/colors/kairo/kairoRed.png) | `kairoRed` | `#F47171` | Use for inline errors and critical issues to ensure they are immediately visible. |
-| ![KairoOrange](../res/colors/kairo/kairoOrange.png) | `kairoOrange` | `#F3AB59` | Perfect for active highlights and selections, adding a vibrant touch to interactions. |
-| ![KairoGreen](../res/colors/kairo/kairoGreen.png) | `kairoGreen` | `#9CB67D` | Ideal for success indicators and Git diffs (additions), promoting a positive coding experience. |
-| ![KairoBlue](../res/colors/kairo/kairoBlue.png) | `kairoBlue` | `#788AD3` | Great for informational messages and static highlights, providing clarity without distraction. |
-| ![KairoYellow](../res/colors/kairo/kairoYellow.png) | `kairoYellow` | `#D6B476` | Use for active search highlights and substitute matches, ensuring they stand out effectively. |
-| ![KairoMagenta](../res/colors/kairo/kairoMagenta.png) | `kairoMagenta` | `#DA72A2` | Suitable for function annotations and special variables, adding a touch of sophistication. |
-| ![KairoViolet](../res/colors/kairo/kairoViolet.png) | `kairoViolet` | `#958EBE` | Perfect for complex data structures and decorators, enhancing the visual hierarchy. |
-| ![KairoCyan](../res/colors/kairo/kairoCyan.png) | `kairoCyan` | `#85C7B8` | Use for interface elements and type hints, providing a crisp and clear contrast for better focus. |
+| ![KuroiRed](../res/colors/kuroi/kuroiRed.png) | `kuroiRed` | `#4E0E0E` | Background for errors and critical alerts. High-contrast to ensure visibility and urgency. |
+| ![KuroiGreen](../res/colors/kuroi/kuroiGreen.png) | `kuroiGreen` | `#1C4642` | Background for success states and Git additions. Indicates positive actions or changes. |
+| ![KuroiBlue](../res/colors/kuroi/kuroiBlue.png) | `kuroiBlue` | `#0D2C4E` | Background for informational elements and Git changes. Highlights modifications or updates. |
+| ![KuroiYellow](../res/colors/kuroi/kuroiYellow.png) | `kuroiYellow` | `#605006` | Background for warnings and Git text changes. Draws attention to important notices. |
+| ![KuroiMagenta](../res/colors/kuroi/kuroiMagenta.png) | `kuroiMagenta` | `#4C1036` | Background for warnings and Git text changes. Provides a distinct visual cue for attention. |
+| ![KuroiCyan](../res/colors/kuroi/kuroiCyan.png) | `kuroiCyan` | `#104351` | Background for warnings and Git text changes. Adds a vibrant yet subtle highlight. |
+| ![KuroiViolet](../res/colors/kuroi/kuroiViolet.png) | `kuroiViolet` | `#2A1844` | Background for inactive UI elements and less prominent text. Maintains a sleek, cohesive look. |
+| ![KuroiOrange](../res/colors/kuroi/kuroiOrange.png) | `kuroiViolet` | `#543407` | Background for inactive UI elements and less prominent text. Adds warmth without overwhelming the interface. |
+</details>
+
+
+<details>
+  <summary>
+    <h3>Umi (海) - Sea</h3> <br> Mid-tone color group (luminosity ~35). Represents vibrant, dynamic accents for UI elements like buttons, highlights, and interactive components.
+  </summary>
+
+| Color | Reference | Hex Code | Description |
+|-------|-----------|----------|-------------|
+| ![UmiRed](../res/colors/umi/umiRed.png) | `umiRed` | `#913B3B` | Foreground for highlights and active search matches. Ensures visibility without being overpowering. |
+| ![UmiGreen](../res/colors/umi/umiGreen.png) | `umiGreen` | `#697F4D` | Foreground for Git additions and success notifications. Indicates positive changes clearly. |
+| ![UmiBlue](../res/colors/umi/umiBlue.png) | `umiBlue` | `#42778A` | Foreground for directory names and informational text. Provides a calming, readable accent. |
+| ![UmiYellow](../res/colors/umi/umiYellow.png) | `umiYellow` | `#9D672F` | Foreground for warnings and active lines. Subtle yet effective for drawing attention. |
+| ![UmiMagenta](../res/colors/umi/umiMagenta.png) | `umiMagenta` | `#8D3F5A` | Foreground for string literals and special characters. Adds vibrancy while maintaining readability. |
+| ![UmiCyan](../res/colors/umi/umiCyan.png) | `umiCyan` | `#478584` | Foreground for variable names and annotations. Enhances clarity and focus in code.  |
+| ![UmiViolet](../res/colors/umi/umiViolet.png) | `umiViolet` | `#614686` | Foreground for buttons, links, and interactive UI elements. Adds warmth and visual interest. |
+| ![UmiOrange](../res/colors/umi/umiOrange.png) | `umiOrange` | `#A06A2C` | Foreground for buttons, links, and interactive UI elements. Provides a vibrant, warm accent. |
+
+</details>
+
+
+<details>
+  <summary>
+    <h3>Sango (珊瑚) - Coral</h3> <br> Bright accent color group (luminosity ~55). Used for vibrant highlights, warnings, and interactive elements to add energy and focus to the interface.
+  </summary>
+
+| Color | Reference | Hex Code | Description |
+|-------|-----------|----------|-------------|
+| ![SangoRed](../res/colors/sango/sangoRed.png) | `sangoRed` | `#C65E53` | Foreground for errors and critical alerts. High-contrast to ensure immediate attention. |
+| ![SangoGreen](../res/colors/sango/sangoGreen.png) | `sangoGreen` | `#8CB167` | Foreground for success messages and Git additions. Clearly indicates positive changes. |
+| ![SangoBlue](../res/colors/sango/sangoBlue.png) | `sangoBlue` | `#597BC0` | Foreground for function names and class definitions. Adds a professional, readable accent. |
+| ![SangoYellow](../res/colors/sango/sangoYellow.png) | `sangoYellow` | `#BB5D7D` | Foreground for highlights like CurSearch and IncSearch. Ensures visibility in active searches. |
+| ![SangoMagenta](../res/colors/sango/sangoMagenta.png) | `sangoMagenta` | `#BB5D7D` | Foreground for method names and decorators. Adds depth and structure to code. |
+| ![SangoCyan](../res/colors/sango/sangoCyan.png) | `sangoCyan` | `#67BBB9` | Foreground for type annotations and interface definitions. Enhances clarity and focus. |
+| ![SangoViolet](../res/colors/sango/sangoViolet.png) | `sangoViolet` | `#8666B2` | Foreground for keywords and operators. Subtle emphasis for better readability. |
+| ![SangoOrange](../res/colors/sango/sangoOrange.png) | `sangoOrange` | `#C97E4F` | Foreground for warnings and important notices. Maintains visibility without being harsh. |
+</details>
+
+
+<details>
+  <summary>
+    <h3>Kairo (海路) - Bioluminescent Sea</h3> <br> Bright, high-contrast color group (luminosity ~70). Used for vibrant highlights, active states, and critical UI elements to create a glowing, dynamic effect.
+  </summary>
+
+| Color | Reference | Hex Code | Description |
+|-------|-----------|----------|-------------|
+| ![KairoRed](../res/colors/kairo/kairoRed.png) | `kairoRed` | `#F47571` | Foreground for inline errors and critical issues. High-contrast for immediate visibility. |
+| ![KairoGreen](../res/colors/kairo/kairoGreen.png) | `kairoGreen` | `#A9D07C` | Foreground for success indicators and Git additions. Clearly signals positive changes. |
+| ![KairoBlue](../res/colors/kairo/kairoBlue.png) | `kairoBlue` | `#798DDC` | Foreground for informational messages and static highlights. Provides clarity without distraction. |
+| ![KairoYellow](../res/colors/kairo/kairoYellow.png) | `kairoYellow` | `#E1C084` | Foreground for active search highlights and substitute matches. Ensures visibility during searches. |
+| ![KairoMagenta](../res/colors/kairo/kairoMagenta.png) | `kairoMagenta` | `#E184AF` | Foreground for function annotations and special variables. Adds sophistication and depth. |
+| ![KairoCyan](../res/colors/kairo/kairoCyan.png) | `kairoCyan` | `#85E0CB` | Foreground for interface elements and type hints. Crisp contrast for better focus and readability. |
+| ![KairoViolet](../res/colors/kairo/kairoViolet.png) | `kairoViolet` | `#AD8FD6` | Foreground for complex data structures and decorators. Enhances visual hierarchy in code. |
+| ![KairoOrange](../res/colors/kairo/kairoOrange.png) | `kairoOrange` | `#F8A26D` | Foreground for active highlights and selections. Adds vibrancy to interactive elements. |
+</details>
+
 
 ## Contributing
 
