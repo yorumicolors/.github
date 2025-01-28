@@ -40,6 +40,9 @@ Ready to reduce eye strain? [Download Yorumi](https://github.com/yorumicolors/yo
 
   <a href="https://github.com/yorumicolors/wezterm">  
     <img src="https://img.shields.io/badge/wezterm-0E0D17?style=for-the-badge&logo=wezterm&logoColor=AD8FD6"></a>
+    
+  <a href="https://github.com/yorumicolors/kitty">  
+    <img src="https://img.shields.io/badge/kitty-060914?style=for-the-badge&logo&logoColor=BDBFCB"></a>
 </p>
 
 Can't find your favorite application? 
